@@ -1,0 +1,1 @@
+/Users/koichiromurakami/dotfiles-v2/.config/nvim/init.lua

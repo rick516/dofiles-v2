@@ -1,0 +1,1 @@
+/Users/koichiromurakami/dotfiles-v2/.p10k.zsh
